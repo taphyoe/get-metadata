@@ -12,7 +12,7 @@ Created Date: 05/09/2018
 
 Keywords: Metadata, Storage, Files
 
-Credits: Antonio Gatti
+Credit: Antonio Gatti
 
 Last Modified: 06/09/2018 11:16 AM
 
