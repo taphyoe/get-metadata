@@ -3,7 +3,6 @@ Powershell script to get file metadata and folder size. Gets all the metadata an
 
 -----------------------------------------------------------------------------
 Script: Get-Metadata
-
 Version: 2.1
 Author: Tin Aung Phyoe (taphyoe@gmail.com)
 Created Date: 05/09/2018
