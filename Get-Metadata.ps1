@@ -13,7 +13,7 @@
 # PARAMETERS:
 # -folder: folder to be scanned
 # -depth: set how deep you want the script to go and get the file metadata. After this level it will only return the folder size. (default value is 5)
-# -maFileRows: set the max number of rows you want in the CSV. It will generate another file every time the script reach the limit.
+# -maxFileRows: set the max number of rows you want in the CSV. It will generate another file every time the script reach the limit.
 #
 # -----------------------------------------------------------------------------
 
